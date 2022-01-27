@@ -8,7 +8,8 @@ import "fmt"
 func main() {
 
 	//var name string = "Emin" // var - name of variable - static type
-	name := "Emin"
+
+	name := "Emin" // Short declaration
 
 	age := 22
 
