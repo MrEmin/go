@@ -5,6 +5,7 @@ package main
 var Y = 100 // Paket düzeyindeki değişkenler büyük harflerle isimlendirilir. */
 
 func main() {
+	// https://pkg.go.dev/fmt
 
 	// (Print - Println) - Printf
 	// Print ve Println raw string yazdırır. Printf ise formatlayıp yazdırır.
