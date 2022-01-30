@@ -40,7 +40,6 @@ func main() {
 
 	// fmt.Print("Benim Adım ", name, " ve ben ", age, " yaşındayım.")
 	// fmt.Println("Benim Adım", name, "ve ben", age, "yaşındayım.") // kelimele ve değişkenler arasına kendisi boşluk koyar.
-
 	// fmt.Printf("Benim Adım %v ve ben %v yaşındayım.", name, age)
 
 	// VISIBILITY - Görünülürlük
