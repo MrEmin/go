@@ -36,5 +36,4 @@ func main() {
 	//fmt.Printf("%v\n", (set3 || set2)) // OR --> sadece 2 durum false --> false
 
 	fmt.Printf("%v\n", (!set3))
-
 }
