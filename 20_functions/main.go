@@ -22,17 +22,42 @@ func main() {
 	// Readable code
 	// From Complex To Simple
 
-	fmt.Println(sum(5, 7))
+	/* fmt.Println(sum(5, 7))
+	fmt.Println(sum(3, 5))
+	fmt.Println(sum(2, 9))
 
 	// func funcName(params) returnType { code }
 
 	merhaba()
+	merhaba() */
+
+	// return vs print
+
+	z := sum(5, 10)
+	fmt.Println(z)
+
+	sum2(6, 11)
+
+	merhaba2("Muhammet Emin", 22)
+
+	// Fonksiyon İsimlendirme
+	// İlk karakter harf olacak.
+	// camelCase isimlendirme kullanılır --> mySum
+	// paket dışında kullanacaksak --> ilk harf büyük olur.
 }
 
 func sum(x, y int) int {
 	return x + y
 }
 
+func sum2(x, y int) {
+	fmt.Println(x + y)
+}
+
 func merhaba() {
 	fmt.Println("Merhaba Dünya")
+}
+
+func merhaba2(name string, age int) {
+	fmt.Printf("Adım %s, yaşım %d", name, age)
 }
