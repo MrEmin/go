@@ -84,3 +84,5 @@ func main() {
 		fmt.Println("Dosyamız:", file)
 	}
 }
+
+// Go'da diğer dillerden farklı olarak, bu hatalara exception handling olarak bakmaz. Bu hatalar bize bir değer gönderir. Bu değere göre işlem yapılır.
