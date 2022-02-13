@@ -24,7 +24,7 @@ import (
 )
 func main() {
 	fmt.Println(strings.Contains("seafood", "foo"))
-	fmt.Println(strings.Count("animatrix", "a"))
+	fmt.Println(strings.Count("animatrix", "a")) // yapılacak..
 }
 */
 
