@@ -16,17 +16,18 @@ import "fmt"
 func main() {
 	fmt.Println("Arin")
 } */
-/*
-package main
+
+/* package main
+
 import (
 	"fmt"
 	"strings"
 )
+
 func main() {
 	fmt.Println(strings.Contains("seafood", "foo"))
-	fmt.Println(strings.Count("animatrix", "a")) // yapılacak... Veri yapıları eklenecek.
-}
-*/
+	fmt.Println(strings.Count("animatrix", "a")) // animatrix kelimesinin içinde 2 tane a harfi olduğunu söyler.
+} */
 
 // Benzer işlemleri yapan kod toplamlarına paket denir.
 
