@@ -24,9 +24,11 @@ import (
 )
 func main() {
 	fmt.Println(strings.Contains("seafood", "foo"))
-	fmt.Println(strings.Count("animatrix", "a")) // yapılacak... Veri yapıarı eklenecek.
+	fmt.Println(strings.Count("animatrix", "a")) // yapılacak... Veri yapıları eklenecek.
 }
 */
+
+// Benzer işlemleri yapan kod toplamlarına paket denir.
 
 package main
 
