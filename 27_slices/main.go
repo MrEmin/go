@@ -16,7 +16,7 @@ func main() {
 	var myArr3 [5]int
 	fmt.Println(myArr3)
 
-	mySlc := []int{1, 2, 3}
+	mySlc := []int{1, 2, 3} // LITERAL YONTEMI
 	fmt.Println(mySlc)
 	fmt.Println(len(mySlc)) */
 
@@ -30,7 +30,7 @@ func main() {
 	// slice'larda referansların kopyasını alırız.
 
 	/* var mySlc []int
-	mySlc = make([]int, 4)
+	mySlc = make([]int, 4) // MAKE METHOD
 	fmt.Println(mySlc)
 	mySlc[0] = 10
 	fmt.Println(mySlc) */
