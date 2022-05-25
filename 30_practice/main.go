@@ -37,4 +37,4 @@ func main() {
 
 // 3 -) slicelar için copy metodunu ve assign ( = ) ile farkını açıklayınız.
 
-// 4 -) map gösterimi ile yazar ve yazarlara ait kitapların isimlerini ofr rarne ile gösterin.
+// 4 -) map gösterimi ile yazar ve yazarlara ait kitapların isimlerini for rarne ile gösterin.
